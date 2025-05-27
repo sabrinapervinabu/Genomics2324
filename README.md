@@ -1,5 +1,5 @@
 # Genomics2324
-# Rare Genetic Disease Diagnosis in Family Trios – Genomic Analysis Pipeline
+Rare Genetic Disease Diagnosis in Family Trios – Genomic Analysis Pipeline
 
 ## Authors
 
